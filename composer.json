@@ -1,0 +1,24 @@
+{
+    "name": "inpassor/yii2-assets",
+    "description": "Inpassor's bower packages assets for the Yii 2 framework",
+    "keywords": [
+        "yii2",
+        "assets"
+    ],
+    "type": "yii2-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Inpassor",
+            "email": "inpassor@yandex.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "inpassor\\assets\\": ""
+        }
+    }
+}
