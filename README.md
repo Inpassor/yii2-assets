@@ -1,6 +1,10 @@
 Inpassor's bower packages assets for the Yii 2 framework
 ========================================================
 
+[![Latest Stable Version](https://poser.pugx.org/inpassor/yii2-assets/version)](https://packagist.org/packages/inpassor/yii2-assets)
+[![Total Downloads](https://poser.pugx.org/inpassor/yii2-assets/downloads)](https://packagist.org/packages/inpassor/yii2-assets)
+[![License](https://poser.pugx.org/inpassor/yii2-assets/license)](https://packagist.org/packages/inpassor/yii2-assets)
+
 Author: Inpassor <inpassor@yandex.com>
 
 Link: https://github.com/Inpassor/yii2-assets
