@@ -10,7 +10,6 @@ class JqueryRealplexor extends \yii\web\AssetBundle
     ];
     public $depends = [
         'yii\web\JqueryAsset',
-        'inpassor\assets\JqueryCommon',
     ];
 
 }
